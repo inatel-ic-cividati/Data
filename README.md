@@ -2,7 +2,9 @@
 Here you can find the whole data used.
 
 ## Entity Relationship Model
-![MER](/files/MER.png)
+<p align="center">
+  <img src="/files/MER.png" alt="ERM" height="250">
+</p>
 
 ## Files
 - **data/database.db**:  Raw data;
