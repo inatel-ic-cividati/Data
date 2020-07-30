@@ -6,10 +6,11 @@ Here you can find the whole data used.
   <img src="/files/MER.png" alt="ERM" height="250">
 </p>
 
-## Files
-- **data/database.db**:  Raw data;
-- **data/currency.csv**: Currency parsed data;
-- **data/wowtoken.csv**: Wowtoken parsed data.
+### Directory Structure
+
+- **code**: Contains all codes used for correlate and plot;
+- **data**: Contains the whole data;
+- **files**: Contains pictures and documentations archives.
 
 ## Author
 - [Rubens Cividati](github.com/Civdati)
