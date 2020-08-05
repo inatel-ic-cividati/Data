@@ -1,7 +1,7 @@
 # Data
 Here you can find the whole data used.
 
-## Entity Relationship Model
+## Database Model
 <p align="center">
   <img src="/files/MER.png" alt="ERM" height="250">
 </p>
