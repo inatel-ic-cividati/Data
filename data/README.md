@@ -4,8 +4,10 @@ Here you can find all the data used for the project.
 
 ## Files
 
-- ![d_currency.csv](d_currency.csv): Data about real currencies;
+- ![d_currency_price_in_dollar.csv](d_currency_price_in_dollar.csv): Data about real currencies;
 
-- [d_wowtoken.csv](d_wowtoken.csv): WoWToken price in gold;
+- [d_kilo_gold_price_in_currency.csv](d_kilo_gold_price_in_currency.csv): Gold price in currency;
 
-- [d_gold.csv](d_gold.csv): Gold price in currency;
+
+- [d_wowtoken_price_in_gold.csv](d_wowtoken_price_in_gold.csv): WoWToken price in gold;
+
